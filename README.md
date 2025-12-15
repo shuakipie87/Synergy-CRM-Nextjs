@@ -1,6 +1,6 @@
 # SynergyHub CRM
 
-**Live Demo:** [https://synergy-crm-flame.vercel.app/](https://synergy-crm-flame.vercel.app/)
+**Live Demo:** [https://synergy-crm-nextjs.vercel.app/](https://synergy-crm-nextjs.vercel.app/)
 
 SynergyHub is a modern, enterprise-grade CRM dashboard capable of managing customer relationships, tracking sales pipelines, and facilitating team collaboration in real-time. Built with performance and aesthetics in mind, it provides a seamless experience for growing teams.
 
